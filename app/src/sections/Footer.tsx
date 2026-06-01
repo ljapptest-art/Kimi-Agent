@@ -43,33 +43,7 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Social */}
-          <div>
-            <h4
-              className="font-mono-label mb-4 text-sm tracking-wider"
-              style={{ color: 'rgba(247,247,245,0.4)' }}
-            >
-              社交媒体
-            </h4>
-            <ul className="space-y-3">
-              <li>
-                <span
-                  className="transition-colors duration-300 hover:text-[#ff9333]"
-                  style={{ color: 'rgba(247,247,245,0.7)', cursor: 'pointer' }}
-                >
-                  Facebook
-                </span>
-              </li>
-              <li>
-                <span
-                  className="transition-colors duration-300 hover:text-[#ff9333]"
-                  style={{ color: 'rgba(247,247,245,0.7)', cursor: 'pointer' }}
-                >
-                  TikTok
-                </span>
-              </li>
-            </ul>
-          </div>
+
         </div>
 
         {/* Bottom bar */}
