@@ -43,7 +43,7 @@ export default function CTASection() {
 
         <div className="mt-12 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
           <a
-            href="mailto:contact@mingelaba.com"
+            href="mailto:daodao@buy7777.store"
             className="rounded-full px-8 py-3 text-base transition-all duration-300 hover:opacity-90"
             style={{ backgroundColor: '#ff9333', color: '#f7f7f5' }}
           >
@@ -53,7 +53,7 @@ export default function CTASection() {
             className="text-sm"
             style={{ color: '#696969' }}
           >
-            contact@mingelaba.com
+            daodao@buy7777.store
           </span>
         </div>
       </div>

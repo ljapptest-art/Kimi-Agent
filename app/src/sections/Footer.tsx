@@ -38,7 +38,7 @@ export default function Footer() {
                 泉州丰泽区
               </li>
               <li style={{ color: 'rgba(247,247,245,0.7)' }}>
-                contact@mingelaba.com
+                daodao@buy7777.store
               </li>
             </ul>
           </div>
